@@ -1,8 +1,9 @@
 {
-  "name": "ui-designer-portfolio",
+  "name": "aboyeji_emmanuel_olusola_animated_portfolio_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@gsap/react": "^2.1.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -37,6 +38,7 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
+      "last 1 edge version",
       "last 1 safari version"
     ]
   }
