@@ -213,18 +213,18 @@ export const projects = [
 
 export const experience = [
     {
-        title:"UI/UX",
+        title:"MOBILE DEVELOPMENT",
         data:[
             {
-                skill:"Figma",
+                skill:"REACT NATIVE",
                 level:"Experienced",
             },
             {
-                skill:"Sketch",
+                skill:"ANDROID STUDIO",
                 level:"Intermediate",
             },
             {
-                skill:"XD",
+                skill:"FIREBASE",
                 level:"Intermediate",
             },
         ]
@@ -245,11 +245,15 @@ export const experience = [
                 level:"Experienced",
             },
             {
+                skill:"TypeScript",
+                level:"Experienced",
+            },
+            {
                 skill:"Tailwind",
                 level:"Intermediate",
             },
             {
-                skill:"Bootstrap",
+                skill:"Next JS",
                 level:"Experienced",
             },
             {
@@ -270,13 +274,17 @@ export const experience = [
                 level:"Experienced",
             },
             {
-                skill:"MangoDB",
-                level:"Intermediate",
-            },
-            {
-                skill:"PHP",
+                skill:"Express",
                 level:"Experienced",
             },
+            {
+                skill:"MongoDB",
+                level:"Experienced",
+            },
+            // {
+            //     skill:"PHP",
+            //     level:"Experienced",
+            // },
             {
                 skill:"Python",
                 level:"Intermediate",
