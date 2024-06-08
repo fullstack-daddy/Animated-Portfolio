@@ -51,7 +51,8 @@ const Services = () => {
           <div className="section__header center">
              <h2 className='primary__title'>Services</h2>
              <h3 className="text__muted description">
-               I transform your ideas, and consequently your desires, into a distinctive web project that both inspires you and captivates your customers.
+               
+I take your ideas and turn them into amazing software projects that excite you and engage your customers, whether it's a website, app, or something else entirely.
              </h3>
           </div>
           <div className="services__group">

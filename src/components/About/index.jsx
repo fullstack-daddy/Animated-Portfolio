@@ -39,7 +39,7 @@ const About = () => {
           </div>
           <div className="section__header">
               <h4 className='primary__title'>About Me</h4>
-              <h1 className='title'>I am <span className='color__primary'>Emmanuel Eze</span></h1>
+              <h1 className='title'>I am <span className='color__primary'>Aboyeji Emmanuel Olusola</span></h1>
               <p className="text__muted description">
                 Experienced Full Stack Developer with a passion for creating dynamic, intuitive, and
                  responsive applications. Proficient in multiple programming languages and frameworks, 
