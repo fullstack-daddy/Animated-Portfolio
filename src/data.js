@@ -257,11 +257,11 @@ export const experience = [
                 level:"Experienced",
             },
             {
-                skill:"React",
+                skill:"React JS",
                 level:"Experienced",
             },
             {
-                skill:"React Native",
+                skill:"Angular JS",
                 level:"Experienced",
             },
         ]
